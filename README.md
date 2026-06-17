@@ -98,38 +98,6 @@
 
 ---
 
-## GitHub
-
-<div align="center">
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Tyler-1102&show_icons=true&theme=dark&hide_border=true&title_color=5EEAD4&icon_color=FBBF24"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Tyler-1102&show_icons=true&theme=default&hide_border=true&title_color=2F6F73&icon_color=F59E0B"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Tyler-1102&show_icons=true&theme=default&hide_border=true&title_color=2F6F73&icon_color=F59E0B" width="48%" />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tyler-1102&layout=compact&theme=dark&hide_border=true&title_color=5EEAD4"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tyler-1102&layout=compact&theme=default&hide_border=true&title_color=2F6F73"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tyler-1102&layout=compact&theme=default&hide_border=true&title_color=2F6F73" width="40%" />
-</picture>
-
-</div>
-
----
-
 <div align="center">
   <sub>Last updated 2026.06.17 · Built around HR x IT, AI services, and people-first product flow.</sub>
 </div>

@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:2F6F73,100:F59E0B&text=Sanghyeop%20Lee&fontColor=FFFFFF&fontSize=46&fontAlign=50&fontAlignY=36&desc=People-centered%20AI%20service%20builder&descSize=18&descAlignY=56)
+![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:2F6F73,100:F59E0B&text=Sanghyeop%20Lee&fontColor=FFFFFF&fontSize=46&fontAlign=50&fontAlignY=42)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=2F6F73&center=true&vCenter=true&width=720&lines=Psychology+%E2%86%92+SW%2FAI+%E2%86%92+Product;Frontend+with+data+and+LLM+thinking;Building+services+for+real+people)](https://git.io/typing-svg)
 
@@ -95,47 +95,6 @@
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
 </div>
-
----
-
-## Highlights
-
-<div align="center">
-
-![SSAFY](https://img.shields.io/badge/SSAFY-SW%C2%B7AI%20Academy-2563EB?style=for-the-badge)
-![Award](https://img.shields.io/badge/Award-%EC%9E%90%EC%9C%A8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%9A%B0%EC%88%98%EC%83%81-F59E0B?style=for-the-badge)
-![ADSP](https://img.shields.io/badge/ADSP-Certificate-2F6F73?style=for-the-badge)
-![TOEIC](https://img.shields.io/badge/TOEIC-940-0F172A?style=for-the-badge)
-![OPIc](https://img.shields.io/badge/OPIc-IM3-475569?style=for-the-badge)
-
-</div>
-
----
-
-## Experience Timeline
-
-<table>
-  <tr>
-    <td width="22%" align="center"><b>2025.07 - 2026.05</b></td>
-    <td><b>SSAFY SW·AI Academy</b><br>Python Track · 4 development projects · 자율프로젝트 우수상</td>
-  </tr>
-  <tr>
-    <td align="center"><b>2023.12 - 2024.09</b></td>
-    <td><b>공터영어</b><br>아동 학습 지도와 운영 관리</td>
-  </tr>
-  <tr>
-    <td align="center"><b>2023.07 - 2025.06</b></td>
-    <td><b>한솔지역아동센터</b><br>외국어 멘토링</td>
-  </tr>
-  <tr>
-    <td align="center"><b>2021.03 - 2023.04</b></td>
-    <td><b>세미산업</b><br>포장 생산 공정 지원과 물류 업무</td>
-  </tr>
-  <tr>
-    <td align="center"><b>2020.09 - 2020.12</b></td>
-    <td><b>KISTI</b><br>국가 R&D 논문 텍스트 변환, 데이터 정제, 품질 검수</td>
-  </tr>
-</table>
 
 ---
 
